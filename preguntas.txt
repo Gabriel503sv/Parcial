@@ -1,1 +1,2 @@
 Explique con sus palabras, qué entiende por sistema. R/ esto toda la relaciones que tiene en interacciones tanto lo electronico como lo software
+Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los comentados en clase R/ abiertos servidores remotos, la electricidad pa la casas , el agua pa la casas y cerrados los circuitos de un microonda , refrigeradora , tv 
